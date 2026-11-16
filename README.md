@@ -12,5 +12,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tobiasjensen1234&theme=holi&animation=rise" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tobiasjensen1234&theme=holi&animation=rise" width="49%">
 </p>
-
-[![Protected by VibeSHIELD, VibeGAMES DDoS protection](https://vibegames.com/api/vibeshield/badge)](https://vibegames.com/vibeshield?utm_source=badge&utm_medium=embed)
